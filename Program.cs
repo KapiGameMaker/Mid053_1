@@ -71,7 +71,7 @@ else if(miny2 >= miny1 && miny2 <= maxy1)
 
 
 overLapseArea =  lengthX * lengthY;
-Console.WriteLine(overLapseArea + " " + lengthX + " " + lengthY);
+
 
 if(overLapseArea == 0)
 {
